@@ -24,6 +24,9 @@
   
   [Week 4](https://github.com/mrunalnshah/Mathematics-for-Machine-Learning-and-Data-Science/tree/main/01.%20Linear%20Algebra%20for%20Machine%20Learning%20and%20Data%20Science/04.%20Week%204)
 
+      01. Linear Algebra for Machine Learning and Data Science/04. Week 4/04. Graded Lab/support_files/expected_cov_mat.npy
+      IGNORED DUE TO >100 MB
+
 ## [Calculus for Machine Learning and Data Science]()
 
 
