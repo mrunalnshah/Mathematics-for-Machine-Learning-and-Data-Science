@@ -9,7 +9,7 @@
 #### COURSE 3 : [Probability & Statistics for Machine Learning & Data Science](https://github.com/mrunalnshah/Mathematics-for-Machine-Learning-and-Data-Science/edit/main/README.md#probability--statistics-for-machine-learning--data-science)
 
 
-
+----
 ## [Linear Algebra for Machine Learning and Data Science](https://github.com/mrunalnshah/Mathematics-for-Machine-Learning-and-Data-Science/tree/main/01.%20Linear%20Algebra%20for%20Machine%20Learning%20and%20Data%20Science)
 
   Contents :
