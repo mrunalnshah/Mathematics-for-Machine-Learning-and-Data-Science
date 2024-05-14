@@ -2,11 +2,11 @@
 
 ----
 
-#### COURSE 1 [Linear Algebra for Machine Learning and Data Science](https://github.com/mrunalnshah/Mathematics-for-Machine-Learning-and-Data-Science/edit/main/README.md#linear-algebra-for-machine-learning-and-data-science)
+#### COURSE 1 : [Linear Algebra for Machine Learning and Data Science](https://github.com/mrunalnshah/Mathematics-for-Machine-Learning-and-Data-Science/edit/main/README.md#linear-algebra-for-machine-learning-and-data-science)
 
-#### COURSE 2 [Calculus for Machine Learning and Data Science](https://github.com/mrunalnshah/Mathematics-for-Machine-Learning-and-Data-Science/edit/main/README.md#calculus-for-machine-learning-and-data-science)
+#### COURSE 2 : [Calculus for Machine Learning and Data Science](https://github.com/mrunalnshah/Mathematics-for-Machine-Learning-and-Data-Science/edit/main/README.md#calculus-for-machine-learning-and-data-science)
 
-#### COURSE 3 [Probability & Statistics for Machine Learning & Data Science](https://github.com/mrunalnshah/Mathematics-for-Machine-Learning-and-Data-Science/edit/main/README.md#probability--statistics-for-machine-learning--data-science)
+#### COURSE 3 : [Probability & Statistics for Machine Learning & Data Science](https://github.com/mrunalnshah/Mathematics-for-Machine-Learning-and-Data-Science/edit/main/README.md#probability--statistics-for-machine-learning--data-science)
 
 
 
