@@ -6,7 +6,7 @@
 
 #### COURSE 2 : [Calculus for Machine Learning and Data Science](https://github.com/mrunalnshah/Mathematics-for-Machine-Learning-and-Data-Science/tree/main?tab=readme-ov-file#calculus-for-machine-learning-and-data-science)
 
-#### COURSE 3 : [Probability & Statistics for Machine Learning & Data Science](https://github.com/mrunalnshah/Mathematics-for-Machine-Learning-and-Data-Science/edit/main/README.md#probability--statistics-for-machine-learning--data-science)
+#### COURSE 3 : [Probability & Statistics for Machine Learning & Data Science](https://github.com/mrunalnshah/Mathematics-for-Machine-Learning-and-Data-Science/blob/main/README.md#probability--statistics-for-machine-learning--data-science)
 
 
 ----
