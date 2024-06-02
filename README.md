@@ -25,8 +25,17 @@
   [Week 4](https://github.com/mrunalnshah/Mathematics-for-Machine-Learning-and-Data-Science/tree/main/01.%20Linear%20Algebra%20for%20Machine%20Learning%20and%20Data%20Science/04.%20Week%204)
 
 
-## [Calculus for Machine Learning and Data Science]()
+## [Calculus for Machine Learning and Data Science](https://github.com/mrunalnshah/Mathematics-for-Machine-Learning-and-Data-Science/tree/main/02.%20Calculus%20for%20Machine%20Learning%20and%20Data%20Science)
 
+  Contents :
+  
+  [Notes]()
+
+  [Week 1](https://github.com/mrunalnshah/Mathematics-for-Machine-Learning-and-Data-Science/tree/main/02.%20Calculus%20for%20Machine%20Learning%20and%20Data%20Science/01.%20Week%201)
+  
+  [Week 2](https://github.com/mrunalnshah/Mathematics-for-Machine-Learning-and-Data-Science/tree/main/02.%20Calculus%20for%20Machine%20Learning%20and%20Data%20Science/02.%20Week%202)
+  
+  [Week 3](https://github.com/mrunalnshah/Mathematics-for-Machine-Learning-and-Data-Science/tree/main/02.%20Calculus%20for%20Machine%20Learning%20and%20Data%20Science/03.%20Week%203)
 
 
 ## [Probability & Statistics for Machine Learning & Data Science]()
