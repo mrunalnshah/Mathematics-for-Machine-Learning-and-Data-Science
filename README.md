@@ -1,5 +1,14 @@
 # Mathematics for Machine Learning and Data Science by DeepLearning.AI
 
+***
+<p class="has-line-data" data-line-start="0" data-line-end="2">Hello,<br>
+Use it liberally.</p>
+
+<p class="has-line-data" data-line-start="9" data-line-end="11"> Mrunal Nirajkumar Shah</p>
+
+***
+
+
 ----
 
 #### COURSE 1 : [Linear Algebra for Machine Learning and Data Science](https://github.com/mrunalnshah/Mathematics-for-Machine-Learning-and-Data-Science/tree/main?tab=readme-ov-file#linear-algebra-for-machine-learning-and-data-science)
