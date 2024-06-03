@@ -24,7 +24,6 @@ Use it liberally.</p>
   Contents :
   
   * [myNotes]()
-
   * [Week 1](https://github.com/mrunalnshah/Mathematics-for-Machine-Learning-and-Data-Science/tree/main/01.%20Linear%20Algebra%20for%20Machine%20Learning%20and%20Data%20Science/Week%201)
 
      * [Notes](https://github.com/mrunalnshah/Mathematics-for-Machine-Learning-and-Data-Science/blob/main/01.%20Linear%20Algebra%20for%20Machine%20Learning%20and%20Data%20Science/Week%201/00.%20Notes/Week_1_Notes.pdf)
