@@ -81,13 +81,40 @@ Use it liberally.</p>
 
   Contents :
   
-  [Notes]()
-
-  [Week 1](https://github.com/mrunalnshah/Mathematics-for-Machine-Learning-and-Data-Science/tree/main/02.%20Calculus%20for%20Machine%20Learning%20and%20Data%20Science/01.%20Week%201)
-  
-  [Week 2](https://github.com/mrunalnshah/Mathematics-for-Machine-Learning-and-Data-Science/tree/main/02.%20Calculus%20for%20Machine%20Learning%20and%20Data%20Science/02.%20Week%202)
-  
-  [Week 3](https://github.com/mrunalnshah/Mathematics-for-Machine-Learning-and-Data-Science/tree/main/02.%20Calculus%20for%20Machine%20Learning%20and%20Data%20Science/03.%20Week%203)
-
+   * [myNotes]()
+   * [Week 1](https://github.com/mrunalnshah/Mathematics-for-Machine-Learning-and-Data-Science/tree/main/02.%20Calculus%20for%20Machine%20Learning%20and%20Data%20Science/Week%201)
+       * [Course Notes](https://github.com/mrunalnshah/Mathematics-for-Machine-Learning-and-Data-Science/blob/main/02.%20Calculus%20for%20Machine%20Learning%20and%20Data%20Science/Week%201/00.%20Notes/Week_1.pdf)
+       * [Derivatives](https://github.com/mrunalnshah/Mathematics-for-Machine-Learning-and-Data-Science/tree/main/02.%20Calculus%20for%20Machine%20Learning%20and%20Data%20Science/Week%201/01.%20Derivatives/01.%20Practice%20Quiz%201)
+           * [Practice Quiz 1](https://github.com/mrunalnshah/Mathematics-for-Machine-Learning-and-Data-Science/blob/main/02.%20Calculus%20for%20Machine%20Learning%20and%20Data%20Science/Week%201/01.%20Derivatives/01.%20Practice%20Quiz%201/01.%20Ungraded_Quiz.png)
+       * [Ungraded Labs](https://github.com/mrunalnshah/Mathematics-for-Machine-Learning-and-Data-Science/tree/main/02.%20Calculus%20for%20Machine%20Learning%20and%20Data%20Science/Week%201/02.%20Ungraded%20Labs)
+           * [C2_W1_Lab_1_differentiation_in_python.ipynb](https://github.com/mrunalnshah/Mathematics-for-Machine-Learning-and-Data-Science/blob/main/02.%20Calculus%20for%20Machine%20Learning%20and%20Data%20Science/Week%201/02.%20Ungraded%20Labs/C2_W1_Lab_1_differentiation_in_python.ipynb)
+       * [Optimization](https://github.com/mrunalnshah/Mathematics-for-Machine-Learning-and-Data-Science/tree/main/02.%20Calculus%20for%20Machine%20Learning%20and%20Data%20Science/Week%201/03.%20Optimization/01.%20Graded%20Quiz)
+           * [Graded Quiz](https://github.com/mrunalnshah/Mathematics-for-Machine-Learning-and-Data-Science/blob/main/02.%20Calculus%20for%20Machine%20Learning%20and%20Data%20Science/Week%201/03.%20Optimization/01.%20Graded%20Quiz/01.png)
+       * [Graded Lab](https://github.com/mrunalnshah/Mathematics-for-Machine-Learning-and-Data-Science/tree/main/02.%20Calculus%20for%20Machine%20Learning%20and%20Data%20Science/Week%201/04.%20Programming%20Assignment/01.%20Graded_Labs)
+           * [C2_W1_Assignment.ipynb](https://github.com/mrunalnshah/Mathematics-for-Machine-Learning-and-Data-Science/blob/main/02.%20Calculus%20for%20Machine%20Learning%20and%20Data%20Science/Week%201/04.%20Programming%20Assignment/01.%20Graded_Labs/C2_W1_Assignment.ipynb)
+   * [Week 2](https://github.com/mrunalnshah/Mathematics-for-Machine-Learning-and-Data-Science/tree/main/02.%20Calculus%20for%20Machine%20Learning%20and%20Data%20Science/Week%202)
+       * [Course Notes](https://github.com/mrunalnshah/Mathematics-for-Machine-Learning-and-Data-Science/blob/main/02.%20Calculus%20for%20Machine%20Learning%20and%20Data%20Science/Week%202/00.%20Notes/Week_2.pdf)
+       * [Gradients](https://github.com/mrunalnshah/Mathematics-for-Machine-Learning-and-Data-Science/tree/main/02.%20Calculus%20for%20Machine%20Learning%20and%20Data%20Science/Week%202/01.%20Gradients/01.%20Practice%20Quiz%201)
+           * [Practice Quiz 1](https://github.com/mrunalnshah/Mathematics-for-Machine-Learning-and-Data-Science/blob/main/02.%20Calculus%20for%20Machine%20Learning%20and%20Data%20Science/Week%202/01.%20Gradients/01.%20Practice%20Quiz%201/01.%20Partial_Derivatives_and_Gradient.png)
+       * [Gradient Descent](https://github.com/mrunalnshah/Mathematics-for-Machine-Learning-and-Data-Science/tree/main/02.%20Calculus%20for%20Machine%20Learning%20and%20Data%20Science/Week%202/02.%20Gradient%20Descent)
+           * [Ungraded Labs](https://github.com/mrunalnshah/Mathematics-for-Machine-Learning-and-Data-Science/tree/main/02.%20Calculus%20for%20Machine%20Learning%20and%20Data%20Science/Week%202/02.%20Gradient%20Descent/01.%20Ungraded_Labs)
+               * [C2_W2_Lab_1_Optimization_Using_Gradient_Descent_in_One_Variable.ipynb](https://github.com/mrunalnshah/Mathematics-for-Machine-Learning-and-Data-Science/blob/main/02.%20Calculus%20for%20Machine%20Learning%20and%20Data%20Science/Week%202/02.%20Gradient%20Descent/01.%20Ungraded_Labs/C2_W2_Lab_1_Optimization_Using_Gradient_Descent_in_One_Variable.ipynb)
+               * [C2_W2_Lab_2_Optimization_Using_Gradient_Descent_in_Two_Variables.ipynb](https://github.com/mrunalnshah/Mathematics-for-Machine-Learning-and-Data-Science/blob/main/02.%20Calculus%20for%20Machine%20Learning%20and%20Data%20Science/Week%202/02.%20Gradient%20Descent/01.%20Ungraded_Labs/C2_W2_Lab_2_Optimization_Using_Gradient_Descent_in_Two_Variables.ipynb)
+           * [Graded Quiz](https://github.com/mrunalnshah/Mathematics-for-Machine-Learning-and-Data-Science/blob/main/02.%20Calculus%20for%20Machine%20Learning%20and%20Data%20Science/Week%202/02.%20Gradient%20Descent/02.%20Graded_Quiz/03.Partial_Derivatives_and_Gradient_Descent.png)
+           * [Graded Lab](https://github.com/mrunalnshah/Mathematics-for-Machine-Learning-and-Data-Science/tree/main/02.%20Calculus%20for%20Machine%20Learning%20and%20Data%20Science/Week%202/02.%20Gradient%20Descent/03.%20Graded_Lab)
+               * [C2_W2_Assignment.ipynb](https://github.com/mrunalnshah/Mathematics-for-Machine-Learning-and-Data-Science/blob/main/02.%20Calculus%20for%20Machine%20Learning%20and%20Data%20Science/Week%202/02.%20Gradient%20Descent/03.%20Graded_Lab/C2_W2_Assignment.ipynb)
+   * [Week 3](https://github.com/mrunalnshah/Mathematics-for-Machine-Learning-and-Data-Science/tree/main/02.%20Calculus%20for%20Machine%20Learning%20and%20Data%20Science/Week%203)
+       * [Course Notes](https://github.com/mrunalnshah/Mathematics-for-Machine-Learning-and-Data-Science/blob/main/02.%20Calculus%20for%20Machine%20Learning%20and%20Data%20Science/Week%203/00.%20Notes/Week_3.pdf)
+       * [Optimization in Netual Network](https://github.com/mrunalnshah/Mathematics-for-Machine-Learning-and-Data-Science/tree/main/02.%20Calculus%20for%20Machine%20Learning%20and%20Data%20Science/Week%203/01.%20Optimization_in_Neural_Network)
+           * [Ungraded Lab](https://github.com/mrunalnshah/Mathematics-for-Machine-Learning-and-Data-Science/tree/main/02.%20Calculus%20for%20Machine%20Learning%20and%20Data%20Science/Week%203/01.%20Optimization_in_Neural_Network/01.%20Ungraded_Labs)
+               * [C2_W3_Lab_1_Regression_with_Perceptron.ipynb](https://github.com/mrunalnshah/Mathematics-for-Machine-Learning-and-Data-Science/blob/main/02.%20Calculus%20for%20Machine%20Learning%20and%20Data%20Science/Week%203/01.%20Optimization_in_Neural_Network/01.%20Ungraded_Labs/C2_W3_Lab_1_Regression_with_Perceptron.ipynb)
+               * [C2_W3_Lab_2_Classification_with_Perceptron.ipynb](https://github.com/mrunalnshah/Mathematics-for-Machine-Learning-and-Data-Science/blob/main/02.%20Calculus%20for%20Machine%20Learning%20and%20Data%20Science/Week%203/01.%20Optimization_in_Neural_Network/01.%20Ungraded_Labs/C2_W3_Lab_2_Classification_with_Perceptron.ipynb)
+           * [Practice Quiz 1](https://github.com/mrunalnshah/Mathematics-for-Machine-Learning-and-Data-Science/blob/main/02.%20Calculus%20for%20Machine%20Learning%20and%20Data%20Science/Week%203/01.%20Optimization_in_Neural_Network/02.%20Practice%20Quiz%201/01.%20Optimization_in_Neural_Networks_Ungraded_Quiz.png)
+       * [Newton's Method](https://github.com/mrunalnshah/Mathematics-for-Machine-Learning-and-Data-Science/tree/main/02.%20Calculus%20for%20Machine%20Learning%20and%20Data%20Science/Week%203/02.%20Newton's_Method)
+          * [Ungraded Lab](https://github.com/mrunalnshah/Mathematics-for-Machine-Learning-and-Data-Science/tree/main/02.%20Calculus%20for%20Machine%20Learning%20and%20Data%20Science/Week%203/02.%20Newton's_Method/01.%20Ungraded_Lab)
+             * [C2_W3_Lab_3_Optimization_Using_Newtons_Method.ipynb](https://github.com/mrunalnshah/Mathematics-for-Machine-Learning-and-Data-Science/blob/main/02.%20Calculus%20for%20Machine%20Learning%20and%20Data%20Science/Week%203/02.%20Newton's_Method/01.%20Ungraded_Lab/C2_W3_Lab_3_Optimization_Using_Newtons_Method.ipynb)
+          * [Graded Quiz](https://github.com/mrunalnshah/Mathematics-for-Machine-Learning-and-Data-Science/blob/main/02.%20Calculus%20for%20Machine%20Learning%20and%20Data%20Science/Week%203/02.%20Newton's_Method/02.%20Graded_Quiz/01.%20Graded_Quiz_Optimization_in_Neural_Network_and_Newton_Method.png)
+          * [Graded Lab](https://github.com/mrunalnshah/Mathematics-for-Machine-Learning-and-Data-Science/tree/main/02.%20Calculus%20for%20Machine%20Learning%20and%20Data%20Science/Week%203/02.%20Newton's_Method/03.%20Graded_Lab)
+              * [C2_W3_Assignment.ipynb](https://github.com/mrunalnshah/Mathematics-for-Machine-Learning-and-Data-Science/blob/main/02.%20Calculus%20for%20Machine%20Learning%20and%20Data%20Science/Week%203/02.%20Newton's_Method/03.%20Graded_Lab/C2_W3_Assignment.ipynb)
 
 ## [Probability & Statistics for Machine Learning & Data Science]()
