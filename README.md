@@ -116,4 +116,22 @@ Use it liberally.</p>
           * [Graded Lab](https://github.com/mrunalnshah/Mathematics-for-Machine-Learning-and-Data-Science/tree/main/02.%20Calculus%20for%20Machine%20Learning%20and%20Data%20Science/Week%203/02.%20Newton's_Method/03.%20Graded_Lab)
               * [C2_W3_Assignment.ipynb](https://github.com/mrunalnshah/Mathematics-for-Machine-Learning-and-Data-Science/blob/main/02.%20Calculus%20for%20Machine%20Learning%20and%20Data%20Science/Week%203/02.%20Newton's_Method/03.%20Graded_Lab/C2_W3_Assignment.ipynb)
 
-## [Probability & Statistics for Machine Learning & Data Science]()
+## [Probability & Statistics for Machine Learning & Data Science](https://github.com/mrunalnshah/Mathematics-for-Machine-Learning-and-Data-Science/tree/main/03.%20Probability%20and%20Statistics%20for%20Machine%20Learning%20and%20Data%20Science)
+ * [myNotes]()
+  * [Week 1](https://github.com/mrunalnshah/Mathematics-for-Machine-Learning-and-Data-Science/tree/main/03.%20Probability%20and%20Statistics%20for%20Machine%20Learning%20and%20Data%20Science/Week%201)
+
+     * [Notes](https://github.com/mrunalnshah/Mathematics-for-Machine-Learning-and-Data-Science/blob/main/03.%20Probability%20and%20Statistics%20for%20Machine%20Learning%20and%20Data%20Science/Week%201/00.%20Notes/Week1_Notes.pdf)
+      
+     * [Introduction to Probability]()
+         * [ Practice Quiz](https://github.com/mrunalnshah/Mathematics-for-Machine-Learning-and-Data-Science/blob/main/03.%20Probability%20and%20Statistics%20for%20Machine%20Learning%20and%20Data%20Science/Week%201/01.%20Introduction%20to%20Probability/01.%20Practice%20Week/Quiz.png)
+    * [Probability Distribution](https://github.com/mrunalnshah/Mathematics-for-Machine-Learning-and-Data-Science/tree/main/03.%20Probability%20and%20Statistics%20for%20Machine%20Learning%20and%20Data%20Science/Week%201/02.%20Probability%20Distribution)
+         * [Ungraded Labs](https://github.com/mrunalnshah/Mathematics-for-Machine-Learning-and-Data-Science/tree/main/03.%20Probability%20and%20Statistics%20for%20Machine%20Learning%20and%20Data%20Science/Week%201/02.%20Probability%20Distribution/01.%20Labs)
+           
+           * [intro-to-pandas-world-happiness.ipynb](https://github.com/mrunalnshah/Mathematics-for-Machine-Learning-and-Data-Science/blob/main/03.%20Probability%20and%20Statistics%20for%20Machine%20Learning%20and%20Data%20Science/Week%201/02.%20Probability%20Distribution/01.%20Labs/intro-to-pandas-world-happiness.ipynb)
+           * [intro-to-pandas-world-happiness.ipynb](https://github.com/mrunalnshah/Mathematics-for-Machine-Learning-and-Data-Science/blob/main/03.%20Probability%20and%20Statistics%20for%20Machine%20Learning%20and%20Data%20Science/Week%201/02.%20Probability%20Distribution/01.%20Labs/linear-regression-world-happiness.ipynb)
+      
+         * [Graded Quiz](https://github.com/mrunalnshah/Mathematics-for-Machine-Learning-and-Data-Science/blob/main/03.%20Probability%20and%20Statistics%20for%20Machine%20Learning%20and%20Data%20Science/Week%201/02.%20Probability%20Distribution/02.%20Graded%20Quiz/Quiz.png)
+    * [Programming Assignment](https://github.com/mrunalnshah/Mathematics-for-Machine-Learning-and-Data-Science/tree/main/03.%20Probability%20and%20Statistics%20for%20Machine%20Learning%20and%20Data%20Science/Week%201/03.%20Programming%20Assignment)
+         * [C3W1_Assignment.ipynb](https://github.com/mrunalnshah/Mathematics-for-Machine-Learning-and-Data-Science/blob/main/03.%20Probability%20and%20Statistics%20for%20Machine%20Learning%20and%20Data%20Science/Week%201/03.%20Programming%20Assignment/C3W1_Assignment.ipynb)
+
+    
