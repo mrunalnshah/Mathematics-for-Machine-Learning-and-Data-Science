@@ -120,7 +120,7 @@ Use it liberally.</p>
  * [myNotes]()
   * [Week 1](https://github.com/mrunalnshah/Mathematics-for-Machine-Learning-and-Data-Science/tree/main/03.%20Probability%20and%20Statistics%20for%20Machine%20Learning%20and%20Data%20Science/Week%201)
 
-     * [Notes](https://github.com/mrunalnshah/Mathematics-for-Machine-Learning-and-Data-Science/blob/main/03.%20Probability%20and%20Statistics%20for%20Machine%20Learning%20and%20Data%20Science/Week%201/00.%20Notes/Week1_Notes.pdf)
+     * [Course Notes](https://github.com/mrunalnshah/Mathematics-for-Machine-Learning-and-Data-Science/blob/main/03.%20Probability%20and%20Statistics%20for%20Machine%20Learning%20and%20Data%20Science/Week%201/00.%20Notes/Week1_Notes.pdf)
       
      * [Introduction to Probability]()
          * [ Practice Quiz](https://github.com/mrunalnshah/Mathematics-for-Machine-Learning-and-Data-Science/blob/main/03.%20Probability%20and%20Statistics%20for%20Machine%20Learning%20and%20Data%20Science/Week%201/01.%20Introduction%20to%20Probability/01.%20Practice%20Week/Quiz.png)
