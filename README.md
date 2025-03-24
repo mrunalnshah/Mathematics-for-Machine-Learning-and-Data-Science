@@ -23,7 +23,6 @@ Use it liberally.</p>
 
   Contents :
   
-  * [myNotes]()
   * [Week 1](https://github.com/mrunalnshah/Mathematics-for-Machine-Learning-and-Data-Science/tree/main/01.%20Linear%20Algebra%20for%20Machine%20Learning%20and%20Data%20Science/Week%201)
 
      * [Notes](https://github.com/mrunalnshah/Mathematics-for-Machine-Learning-and-Data-Science/blob/main/01.%20Linear%20Algebra%20for%20Machine%20Learning%20and%20Data%20Science/Week%201/00.%20Notes/Week_1_Notes.pdf)
@@ -80,7 +79,6 @@ Use it liberally.</p>
 
   Contents :
   
-   * [myNotes]()
    * [Week 1](https://github.com/mrunalnshah/Mathematics-for-Machine-Learning-and-Data-Science/tree/main/02.%20Calculus%20for%20Machine%20Learning%20and%20Data%20Science/Week%201)
        * [Course Notes](https://github.com/mrunalnshah/Mathematics-for-Machine-Learning-and-Data-Science/blob/main/02.%20Calculus%20for%20Machine%20Learning%20and%20Data%20Science/Week%201/00.%20Notes/Week_1.pdf)
        * [Derivatives](https://github.com/mrunalnshah/Mathematics-for-Machine-Learning-and-Data-Science/tree/main/02.%20Calculus%20for%20Machine%20Learning%20and%20Data%20Science/Week%201/01.%20Derivatives/01.%20Practice%20Quiz%201)
@@ -117,7 +115,6 @@ Use it liberally.</p>
               * [C2_W3_Assignment.ipynb](https://github.com/mrunalnshah/Mathematics-for-Machine-Learning-and-Data-Science/blob/main/02.%20Calculus%20for%20Machine%20Learning%20and%20Data%20Science/Week%203/02.%20Newton's_Method/03.%20Graded_Lab/C2_W3_Assignment.ipynb)
 
 ## [Probability & Statistics for Machine Learning & Data Science](https://github.com/mrunalnshah/Mathematics-for-Machine-Learning-and-Data-Science/tree/main/03.%20Probability%20and%20Statistics%20for%20Machine%20Learning%20and%20Data%20Science)
- * [myNotes]()
   * [Week 1](https://github.com/mrunalnshah/Mathematics-for-Machine-Learning-and-Data-Science/tree/main/03.%20Probability%20and%20Statistics%20for%20Machine%20Learning%20and%20Data%20Science/Week%201)
 
      * [Course Notes](https://github.com/mrunalnshah/Mathematics-for-Machine-Learning-and-Data-Science/blob/main/03.%20Probability%20and%20Statistics%20for%20Machine%20Learning%20and%20Data%20Science/Week%201/00.%20Notes/Week1_Notes.pdf)
